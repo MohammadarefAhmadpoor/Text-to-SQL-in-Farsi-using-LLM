@@ -41,7 +41,7 @@ Output:
 
 ## Requirements
 - Python 3.x
-- Libraries: `pandas`, `requests`, `sqlparse`, `difflib`, `sqlglot`
+- Libraries: `pandas`, `requests`,  `sqlglot`
 - Google Colab with Drive integration (optional)
 - OpenRouter API key
   
